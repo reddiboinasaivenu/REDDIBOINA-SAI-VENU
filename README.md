@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 im studing B.TECH 2ND YEAR CSE⚡<br>👩🏻‍💻 Strong in C , PYTHON ,DSA & Problem solving (100+ leetcode problems solved)<br> 📊 Passionate about AI, BIG DATA ANALYST <br> 📉 consistently learning  improving and growing in tech every day<br>
+🚀 im studing B.TECH 3RD YEAR CSE⚡<br>👩🏻‍💻 Strong in C , PYTHON ,DSA & Problem solving (100+ leetcode problems solved)<br> 📊 Passionate about AI, BIG DATA ANALYST <br> 📉 consistently learning  improving and growing in tech every day<br>
 
 
 ## 🌐 Socials:
